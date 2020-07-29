@@ -7,4 +7,4 @@ train.csv
 test.csv
 
 term_matrix_text.csv
-term_matrix_keywords.csv
+term_matrix_keyword.csv
