@@ -5,3 +5,6 @@ __pycache__
 # Data
 train.csv
 test.csv
+
+term_matrix_text.csv
+term_matrix_keywords.csv
